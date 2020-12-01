@@ -28,7 +28,7 @@ while(proceed_further):
 
   if choice == 'no':
     proceed_further = False
-    print(bid_list)
+#     print(bid_list)
     find_highest_bidder(bid_list)
 
 
